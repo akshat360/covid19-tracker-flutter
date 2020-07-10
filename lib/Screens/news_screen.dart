@@ -19,7 +19,19 @@ class _NewsScreenState extends State<NewsScreen> {
 
   Future getNews() async {
     NetworkHelper networkHelper = NetworkHelper();
-    String date = new DateTime.now().toString().substring(0, 10);
+    final now = DateTime.now();
+
+    String date = now.toString().substring(0, 10);
+
+    if (now.hour < 12) {
+      final yesterday = new DateTime(
+        now.year,
+        now.month,
+        now.day - 1,
+      );
+      date = yesterday.toString().substring(0, 10);
+    }
+
     var jsonString = await networkHelper.getData(
         url:
             "http://newsapi.org/v2/everything?sources=bbc-news&q=covid&from=$date&sortBy=popularity&apiKey=635f67d0f1d04388b516fe1256bc4ec5");
@@ -32,6 +44,7 @@ class _NewsScreenState extends State<NewsScreen> {
         image: article["urlToImage"],
         source: article["source"]["name"],
         date: article["publishedAt"],
+        url: article["url"],
       ));
     }
   }

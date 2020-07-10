@@ -28,6 +28,8 @@ class _TipsScreenState extends State<TipsScreen> {
           image:
               "https://images.vexels.com/media/users/3/193284/isolated/preview/2631e81702081ccd8cba4ee29499a466-covid-19-symptom-runny-nose-by-vexels.png",
           date: "",
+          url:
+              "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses",
         ),
         NewsTile(
           title: "Preventive Measures",
@@ -36,6 +38,8 @@ class _TipsScreenState extends State<TipsScreen> {
           image:
               "https://images.vexels.com/media/users/3/193245/isolated/preview/22252b5a066d12c77a7b05ca36464bf9-covid-19-face-mask-girl-by-vexels.png",
           date: "",
+          url:
+              "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-coronaviruses",
         )
       ],
     );
