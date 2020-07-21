@@ -1,14 +1,24 @@
 # covid19tracker
 
-A new Flutter application to track Covid19
+A new Flutter application to track Covid19 cases all around the world and India.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Click on the Preview to view Example Video on Youtube:
 
-A few resources to get you started if this is your first Flutter project:
 [![Watch the video](https://img.youtube.com/vi/lRlH9nVWusg/maxresdefault.jpg)](https://youtu.be/lRlH9nVWusg)
+[![Screenshot](https://ibb.co/cFGs7Rt)]
+# Features:
+## Home
+Worldwide Data
+-> Total Cases & today Cases
+-> Total Active & today Active
+-> Total Recovered & today Recovered
+-> Total Deaths & today Deaths.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Data For Every Country in List view. 
+
+-> Total Cases & today Cases
+-> Total Active & today Active
+-> Total Recovered & today Recovered
+-> Total Deaths & today Deaths.
