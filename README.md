@@ -22,3 +22,5 @@ Data For Every Country in List view.
 -> Total Active & today Active
 -> Total Recovered & today Recovered
 -> Total Deaths & today Deaths.
+
+<a href="https://ibb.co/PxZ0WNP"><img src="https://i.ibb.co/PxZ0WNP/news.png" alt="news" border="0"></a> <a href="https://ibb.co/L11H5hG"><img src="https://i.ibb.co/L11H5hG/help.png" alt="help" border="0"></a>
