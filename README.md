@@ -7,7 +7,7 @@ A new Flutter application to track Covid19 cases all around the world and India.
 Click on the Preview to view Example Video on Youtube:
 
 [![Watch the video](https://img.youtube.com/vi/lRlH9nVWusg/maxresdefault.jpg)](https://youtu.be/lRlH9nVWusg)
-[![Screenshot](https://ibb.co/cFGs7Rt)]
+![Screenshot](https://ibb.co/cFGs7Rt)]
 # Features:
 ## Home
 Worldwide Data
