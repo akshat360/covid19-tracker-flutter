@@ -7,9 +7,7 @@ A new Flutter application to track Covid19
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[![Watch the video](https://img.youtube.com/vi/lRlH9nVWusg/maxresdefault.jpg)](https://youtu.be/lRlH9nVWusg)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
