@@ -4,8 +4,11 @@ A Flutter application to track Covid19 cases all around the world and India.
 
 ## Getting Started
 
-<img src="https://i.ibb.co/4T605CM/home.png" alt="alt text" width="200" height="400">
-![Screenshot](https://i.ibb.co/4T605CM/home.png)
+<img src="https://i.ibb.co/4T605CM/home.png" alt="alt text" width="250" height="400">
+<img src="https://i.ibb.co/4T605CM/home.png" alt="alt text" width="250" height="400">
+<img src="https://i.ibb.co/4T605CM/home.png" alt="alt text" width="250" height="400">
+
+
 # Features:
 ## Home
 Worldwide Data
