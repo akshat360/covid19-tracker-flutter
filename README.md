@@ -6,7 +6,7 @@ A Flutter application to track Covid19 cases all around the world and India.
 
 <img src="https://i.ibb.co/4T605CM/home.png" alt="alt text" width="250" height="400">
 <img src="https://i.ibb.co/PxZ0WNP/news.png" alt="alt text" width="250" height="400">
-<img src="ttps://i.ibb.co/L11H5hG/help.png" alt="alt text" width="250" height="400">
+<img src="https://i.ibb.co/L11H5hG/help.png" alt="alt text" width="250" height="400">
 
 
 # Features:
